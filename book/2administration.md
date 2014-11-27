@@ -18,6 +18,7 @@ There are seven (7) menu options on top.  These can be seen in the graphic below
 The module’s home screen displays links to the administration functions and also provides information on the system configuration check results.  The module verifies the XOOPS installation meets the minimum requirement to ensure the module operates correctly.
 
 The home screen also displays the current number of messages stored in the database.
+
 ![image007.jpg](../assets/image007.jpg) 
 *Figure 4 The “Module Home” Tab*
 
@@ -25,7 +26,9 @@ There are six (6) Tabs in the Administration of the XOOPS Partners module:
 -	Home Tab – displays relevant module information (shown in the previous graphic)
 -	Messages Tab – allows management of Contact messages
 -	Log Tab – allows viewing various message logs
--	Prune Tab– allows deleting messages from the database
+-	Prune Tab – allows deleting messages from the database
+-	About - information about the module, its authors, and changelog
+-	Help - provides additional help for the user
 
 **Prune Tab**
 
@@ -38,8 +41,9 @@ The prune page provides the administrator the ability to prune (delete) messages
 *Figure 8 The “Prune Confirm” Page*
 
 This page is displayed after an administrator chooses to delete a range of logs.  Once this form is submitted the deletion will occur and is unrecoverable. The administrator can select ‘Cancel’ to return to module administration without pruning (deleting) the messages.
-•	About Tab – provides version, developer information, also displays the module change log
-•	Help Tab – a brief description of steps necessary to install/uninstall and configure the module
+
+-	About Tab – provides version, developer information, also displays the module change log
+-	Help Tab – a brief description of steps necessary to install/uninstall and configure the module
 
 **Messages Tab**
 ![image010.jpg](../assets/image010.jpg)  
@@ -47,16 +51,17 @@ This page is displayed after an administrator chooses to delete a range of logs.
 
 The messages page (shown in the graphic above) displays useful information about the messages received. The subject of the message along with the date submitted, if the administrator has sent a reply, the Department (if enabled) the message was sent to, submitter information and also an action panel for each message.
 Action Panel
+
 The action panel consists of four (4) action icons.  Clicking the icon will take you to the appropriate location to complete each action.
  
 
 ![image011.jpg](../assets/image011.jpg) 
 
 
-Delete – Delete this message from the database
-				View – view the complete message and header information (subject, to/from, etc)
-				Reply – create a reply for this message
-				Preview – Quickly preview the message in a javascript popup window
+- Delete – Delete this message from the database
+- View – view the complete message and header information (subject, to/from, etc)
+- Reply – create a reply for this message
+- Preview – Quickly preview the message in a javascript popup window
 
  
 **Log Tab**
