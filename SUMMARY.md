@@ -8,6 +8,6 @@
 * [The User Side](book/userside.md)
 * [Blocks](book/blocks.md)
 * [Templates](book/templates.md)
-* [Other](book/other.md) //delete, if not used
+* [Other](book/other.md)
 * [Module Credits](book/credits.md)
 
