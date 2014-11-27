@@ -26,4 +26,4 @@
 
  
 ![image004.png](assets/image004.jpg)
-_Figure 1: Main view of the Marquee Module (Admin side)_
+_Figure 1: Main view of the Contact Module (Admin side)_
