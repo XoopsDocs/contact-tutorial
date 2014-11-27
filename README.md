@@ -26,4 +26,5 @@
 
  
 ![image004.png](assets/image004.jpg)
+
 *Figure 1: Main view of the Contact Module (Admin side)*
