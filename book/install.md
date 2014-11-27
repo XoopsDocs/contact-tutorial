@@ -5,3 +5,9 @@ No special measures necessary, follow the standard installation process – extr
 ![image005.jpg](../assets/image005.jpg)
 
 *Figure 2 The Module Administration and Installation*
+
+Detailed instructions on installing modules are available in the XOOPS Operations Manual.  To uninstall the module, just click on the red arrow:
+ 
+ ![image006.jpg](../assets/image006.jpg)
+ 
+*Figure 3 The Module Administration and un-installation*
