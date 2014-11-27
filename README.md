@@ -1,4 +1,4 @@
-contact
+Contact US
 =======
 
-Contact Module
+Contact Us Module
