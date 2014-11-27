@@ -4,7 +4,7 @@
 There are seven (7) menu options on top.  These can be seen in the graphic below above the Module’s Administration tabs.  The menu options available are described in the table below.
 
 |Option|	Action|
-|--|--|
+|---|---|
 |Preferences|	Here you can configure your preferences for the module|
 |Update|	Click here if you’ve made some changes to the module, uploaded new files, etc. – this will recompile the module and update all entries in the database |
 |Blocks|	When you click here, it will redirect you to the Blocks section of XOOPS, and select the blocks related to your module|
