@@ -8,6 +8,6 @@
 * [The User Side](book/userside.md)
 * [Blocks](book/blocks.md)
 * [Templates](book/templates.md)
-* [Waiting Module Support](book/waiting.md) * [Other](book/other.md) 
+* [Waiting Module Support](book/waiting.md) 
 * [Module Credits](book/credits.md)
 
