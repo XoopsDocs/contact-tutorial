@@ -25,5 +25,5 @@
 “Contact Us” is a very simple module. It provides a Main Menu link to a contact form that visitors can use to email the website Administrator or optionally a department.
 
  
-![image004.png](assets/image004.png)
+![image004.png](assets/image004.jpg)
 _Figure 1: Main view of the Marquee Module (Admin side)_
