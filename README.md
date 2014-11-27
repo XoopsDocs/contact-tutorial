@@ -1,7 +1,7 @@
 ### _XOOPS Documentation Series_
 ![logoXoops.jpg](assets/logoXoops.jpg)
 
-# XOOPS Marquee 2.50
+# Module: Contact Us  1.8.2
 #### for XOOPS 2.5.7
   
       
@@ -22,8 +22,8 @@
 ## Module Purpose 
 
  
-This module is for .....
+“Contact Us” is a very simple module. It provides a Main Menu link to a contact form that visitors can use to email the website Administrator or optionally a department.
 
  
-![image001.png](images/image001.png)
+![image004.png](assets/image004.png)
 _Figure 1: Main view of the Marquee Module (Admin side)_
