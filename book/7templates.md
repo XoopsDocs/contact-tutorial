@@ -13,7 +13,13 @@ Four (4) templates for administration.
 |contact_logs.tpl |to display the logs request form and the subsequent results.|
 
 One (1) template for the “front side” form:
--	contact_index.tpl - displays the “Contact Us” form. The template may be edited through Admin -> System -> Templates -> Contact Us.
+
+|Template|Function|
+|---|---|
+|contact_index.tpl | displays the “Contact Us” form. The template may be edited through Admin -> System -> Templates -> Contact Us.|
 
 One (1) template for the “block”:
--	contact_block_stats.tpl - displays the “Contact Statistics” block. The template may be edited through Admin -> System -> Templates -> Contact Us.
+
+|Template|Function|
+|---|---|
+|contact_block_stats.tpl | displays the “Contact Statistics” block. The template may be edited through Admin -> System -> Templates -> Contact Us.|
