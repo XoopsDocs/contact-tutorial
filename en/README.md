@@ -5,7 +5,7 @@
 #### for XOOPS 2.5.7
   
       
-![logoModule.png](assets/logoModule.png)
+![logoModule.png](../assets/logoModule.png)
             
                 
                 
@@ -25,7 +25,7 @@
 “Contact Us” is a very simple module. It provides a Main Menu link to a contact form that visitors can use to email the website Administrator or optionally a department.
 
  
-![image004.png](assets/image004.jpg)
+![image004.png](../assets/image004.jpg)
 
 *Figure 1: Main view of the Contact Module (Admin side)*
 
