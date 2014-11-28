@@ -1,5 +1,5 @@
 ### _XOOPS Documentation Series_
-![logoXoops.jpg](assets/logoXoops.jpg)
+![logoXoops.jpg](../assets/logoXoops.jpg)
 
 # Module: Contact Us  1.8.2
 #### for XOOPS 2.5.7
