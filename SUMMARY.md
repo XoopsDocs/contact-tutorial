@@ -9,3 +9,4 @@
 * [Templates](book/7templates.md)
 * [Waiting Module Support](book/8waiting.md)
 * [Module Credits](book/9credits.md)
+* [About XOOPS CMS](book/10aboutxoops.md)
