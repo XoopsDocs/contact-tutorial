@@ -1,13 +1,34 @@
-A placeholder for a local language.
+### _XOOPS Documentation Series_
+![logoXoops.jpg](de/assets/logoXoops.jpg)
 
-Copy files from the default language folder (e.g. /en) here, and then translate them.
+# Modul: Contact Us  2.23
+#### for XOOPS 2.5.7
+      
+![logoModule.png](de/assets/logoModule.png)
+ 
+## Bedienungsanleitung
+  
+© 2015 The XOOPS Project (www.xoops.org)    
+  
 
-Also make sure that your language is added the the selection in "LANGS.md" file. For example, for German, we should add 
+## Basisinformation zum Modul 
+ 
+“Contact Us” ist ein sehr einfaches Modul. Es bietet ihnen die Möglichkeit, dass Benutzer an eine definierte EMail-Adresse oder eine Abteilung ein Kontakt-EMail senden.
+Der Aufruf des Kontaktformulars erfolgt über das Hauptmenü oder es können auch entsprechende Blöcke angezeigt werden.
+ 
+![image004.png](de/assets/dashboard.PNG)
 
-```* [Deutsch](de)```
+*Abbildung 1: Hauptübersicht des Kontaktmoduls (Administrationsbereich)*
 
-so it looks like this:
+# Inhaltstabelle
 
-```* [English](en)```<br>
-```* [Deutsch](de)```
-
+* [Einleitung](README.md)
+* [(De-)Installation](book/1install.md)
+* [Administrationsbereich](book/2administration.md)
+* [Einstellungen](book/3preferences.md)
+* [Benutzerbereich](book/5userside.md)
+* [Blöcke](book/6blocks.md)
+* [Templates](book/7templates.md)
+* [Support durch das Modul "Waiting"](book/8waiting.md)
+* [Modul Credits](book/9credits.md)
+* [About Xoops](book/10aboutxoops.md)
