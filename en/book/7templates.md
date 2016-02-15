@@ -23,3 +23,4 @@ One (1) template for the “block”:
 |Template|Function|
 |---|---|
 |***contact_block_stats.tpl*** | displays the “Contact Statistics” block. The template may be edited through Admin -> System -> Templates -> Contact Us.|
+
