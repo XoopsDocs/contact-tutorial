@@ -11,7 +11,7 @@
 © 2016 XOOPS Project ([www.xoops.org](http://xoops.org))        
   
 
-## Module Purpose 
+## Module Purpose
  
 “Contact Us” is a very simple module. It provides a Main Menu link to a contact form that visitors can use to email the website Administrator or optionally a department.
  
