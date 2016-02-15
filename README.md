@@ -6,7 +6,7 @@
       
 ![logoModule.png](en/assets/logoModule.png)
  
-## User Manual 
+## User Manual
   
 © 2016 XOOPS Project ([www.xoops.org](http://xoops.org))        
   
