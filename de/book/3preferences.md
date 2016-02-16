@@ -12,10 +12,10 @@ Wenn Sie reCaptcha verwenden möchten, müssen Sie Ihre Webseite zuvor bei Googl
 - Wenn Sie nicht bei Google registriert sind, müssen Sie sich zuerst bei registrieren
 - Aufruf der Webseite https://www.google.com/recaptcha/admin
 - Einfach die gewünschte Webseite (Bezeichnung und Url) angeben:
-![3_recaptcha_01_de.jpg](../assets/3_recaptcha_01_de.jpg)
+![3_recaptcha1_de.PNG](../assets/3_recaptcha1_de.PNG)
 
 - Nach dem Klick auf "Registrieren" erscheint eine neue Seite mit dem erforderlichen Webseitenschlüssel:
-![3_recaptcha_02_de.jpg](../assets/3_recaptcha_02_de.jpg)
+![3_recaptcha2_de.PNG](../assets/3_recaptcha2_de.PNG)
 
 - Den Webseitenschlüssel kopieren und in der Moduleinstellung eintragen
 - fertig
@@ -67,10 +67,10 @@ Hier können sie Google Maps als iframe einbetten
 Gehen Sie dazu wie folgt vor:
 - Den entsprechenden Ort in Google Maps suchen
 - Auf "Einstellungen" oder "Teilen" klicken:
-![3_maps_01_de.jpg](../assets/3_maps_01_de.jpg)
+![3_maps1_de.PNG](../assets/3_maps1_de.PNG)
 
 - Nach dem Klick auf "Karte teilen oder einbetten" den Tab "Karte einbetten" wählen:
-![3_maps_02_de.jpg](../assets/3_maps_02_de.jpg)
+![3_maps2_de.PNG](../assets/3_maps2_de.PNG)
 
 - Den iframe-Code kopieren und in der Moduleinstellung eintragen
 - Falls erforderlich, die Einstellung der Weite des iframes auf 100 % ändern.
