@@ -1,4 +1,4 @@
-# 9.0 Modul Credits
+# 9. Modul Credits
 
 Das Modul **Contact** wurde erstellt von Kazumi Ono (Onokazu), und bearbeitet von Ricardo Costa (Trabis). 
 
