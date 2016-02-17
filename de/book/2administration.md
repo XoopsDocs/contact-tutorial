@@ -1,15 +1,16 @@
 # 2.0 Administrationbereich
 
 Im oberen Bereich befinden sich 7 Menüpunkte.
-|Menüpunkt|Funktion|
+
+|Menüpunkt|	Funktion|
 |---|---|
-| Einstellungen | Hier können sie die Moduleinstellungen vornehmen |
-| Update | Klicken sie hier, wenn sie einige Änderungen am Modul vorgenommen haben, Dateien hochgeladen haben usw. - dadurch wird das Modul neu kompiliert und alle Datenbankeinträge werden erneuert |
-| Blöcke | Wenn sie hier klicken, werden sie zur Blockverwaltung weitergeleitet, und es werden die Blöcke des aktuelle Modules vorgefiltert |
-| Templates | Hier können sie die Standardtemplates des aktuellen Moduls bearbeiten, verwendet wird dabei der XOOPS Template Manager |
-| Kommentare | Dieses Modul unterstützt keine Kommentare, sodass sie zum Xoops Kommentar-Manager weitergeleitet werden |
-| Deinstallieren | Sie werden zur Deinstallation des Moduls weitergeleitet |
-| Zum Modul | Wenn das Modul auf der Benutzerseite sichtbar ist, werden sie dorthin weitergeleitet |
+|Einstellungen| Hier können sie die Moduleinstellungen vornehmen |
+|Update| Klicken sie hier, wenn sie einige Änderungen am Modul vorgenommen haben, Dateien hochgeladen haben usw. - dadurch wird das Modul neu kompiliert und alle Datenbankeinträge werden erneuert |
+|Blöcke| Wenn sie hier klicken, werden sie zur Blockverwaltung weitergeleitet, und es werden die Blöcke des aktuelle Modules vorgefiltert |
+|Templates| Hier können sie die Standardtemplates des aktuellen Moduls bearbeiten, verwendet wird dabei der XOOPS Template Manager |
+|Kommentare| Dieses Modul unterstützt keine Kommentare, sodass sie zum Xoops Kommentar-Manager weitergeleitet werden |
+|Deinstallieren| Sie werden zur Deinstallation des Moduls weitergeleitet |
+|Zum Modul| Wenn das Modul auf der Benutzerseite sichtbar ist, werden sie dorthin weitergeleitet |
 
 
 **Register Übersicht**
