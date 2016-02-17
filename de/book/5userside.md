@@ -1,4 +1,4 @@
-# 5.0 Die Benutzerseite
+# 5. Die Benutzerseite
 
 Auf der Benutzerseite kann das Kontaktformular entweder über einen Link im Hauptmenü aufgerufen werden oder es wird als Block angeboten.
 Es ist einfach nur der gewünschte Text im Feld "Nachricht" einzugeben, mit einem Klick auf "Senden" werden die Daten gesendet.

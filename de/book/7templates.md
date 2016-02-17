@@ -1,4 +1,4 @@
-# 7.0 Templates
+# 7. Templates
 
 Diese Modul verwendet Templatedateien (.tpl) mit Smarty Tags (http://www.smarty.net), kompatible mit Version 2.
 
@@ -14,12 +14,14 @@ Für den Administrationsbereich gibt es 5 Templates:
 
 
 Für die Benutzerseite ist ein Template vorhanden:
+
 |Template|Funktion|
 |---|---|
 |***contact_index.tpl*** | Zeigt das Kontaktformular an. Sofern das iframe für Google-Maps definiert wurde, wird die Karte rechts neben dem Kontaktformular angezeigt.|
 
 
 Für die Blöcke existieren 4 Templates:
+
 |Template|Function|
 |---|---|
 |***contact_block_stats.tpl*** | Zur Anzeige des Statistikblocks |

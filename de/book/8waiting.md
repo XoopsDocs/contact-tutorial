@@ -1,4 +1,4 @@
-# 8.0 Support des Moduls Waiting
+# 8. Support des Moduls Waiting
 
 Das Modul Contact beinhaltet die grndsätzliche Unterstützung des Moduls "Waiting module v0.97+". Der Support erfolgt automatisch und das Modul Contact wird im Block "Waiting" angezeigt:
 ![image023.jpg](../assets/image023.jpg)

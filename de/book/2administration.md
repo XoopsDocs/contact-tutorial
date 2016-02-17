@@ -1,4 +1,4 @@
-# 2.0 Administrationbereich
+# 2. Administrationbereich
 
 Im oberen Bereich befinden sich 7 Menüpunkte.
 
@@ -12,17 +12,7 @@ Im oberen Bereich befinden sich 7 Menüpunkte.
 |Deinstallieren| Sie werden zur Deinstallation des Moduls weitergeleitet |
 |Zum Modul| Wenn das Modul auf der Benutzerseite sichtbar ist, werden sie dorthin weitergeleitet |
 
-
-**Register Übersicht**
-
-Die Modulübersicht bietet Links zu den Administrationsfunktionen und zeigt Informationen über die Ergebnisse des Systemkonfigurationschecks. Das Modul überprüft die Xoops-Installation sowie die Minimalanforderungen, um sicherzustellen, dass das Modul einwandfrei arbeitet.
-
-Die Übersicht zeigt aber auch die aktuelle Anzahl der in der Datenbank gespeicherten Nachrichten.
-
-![0_dashboard_de.PNG](../assets/0_dashboard_de.PNG) 
-*Abbildung 4 Die Hauptübersicht*
-
-Es befinden sie 6 Registerblätter im Administrationsbereich: 
+Es befinden sich außerdem 6 Registerblätter im Administrationsbereich: 
 -	Register Übersicht – grundsätzliche Informationen zu Modul
 -	Register Kontakt – ermöglicht die Verwaltung der Kontaktnachrichten
 -	Register Logs – ermöglicht die Anzeiger verschiedener Logs
@@ -31,7 +21,17 @@ Es befinden sie 6 Registerblätter im Administrationsbereich:
 -	Register Hilfe - bietet grundsätzliche Hilfe für den Anwender
 
 
-**Register Kontakt**
+#### 2.1 Register Übersicht
+
+Die Modulübersicht bietet Links zu den Administrationsfunktionen und zeigt Informationen über die Ergebnisse des Systemkonfigurationschecks. Das Modul überprüft die Xoops-Installation sowie die Minimalanforderungen, um sicherzustellen, dass das Modul einwandfrei arbeitet.
+
+Die Übersicht zeigt aber auch die aktuelle Anzahl der in der Datenbank gespeicherten Nachrichten.
+
+![0_dashboard_de.PNG](../assets/0_dashboard_de.PNG) 
+*Abbildung 4 Die Hauptübersicht*
+
+
+#### 2.2 Register Kontakt
 ![2_message1_de.PNG](../assets/2_message1_de.PNG)  
 *Abbildung 5 Das Registerblatt Kontakt*
 
@@ -47,22 +47,21 @@ Der Aktionsbereich bietet 4 Aktionen:
 - Vorschau – schnelle Vorschau der Nachricht in einem Javascript Popup-Fenster
 
 
-**Register Logs**
+#### 2.3 Register Logs
 ![2_logs1_de.PNG](../assets/2_logs1_de.PNG)  
 *Abbildung 6 Das Register “Logs”*
 
 Diese Seite bietet dem Administrator die Möglichkeit, die Informationen aus der Datenbank nach verschiedenen Kriterien zu filtern. Ein Dropdown mit den möglichen Felder wird angeboten, wobei bei der Anzeige des Ergebnisses nur Nachrichten angezeigt werden, bei denen das entsprechende Feld auch befüllt wurde. Bei einer großen Anzahl an Einträgen kann zusätzlich ein Datum als Limit angegeben werden.
 
 
-**Register Werkzeuge**
+#### 2.4 Register Werkzeuge
 ![2_prune1_de.PNG](../assets/2_prune1_de.PNG)  
 *Abbildung 7 Das Register Werkzeuge*
 
 Dieses Register bietet dem Administrator die Möglichkeit, Nachrichten aus der Datenbank zu löschen. Dabei kann festgelegt werden, dass alle Nachrichten vor einem bestimmten Datum gelöscht werden, zusätzlich kann festgelegt werden, ob alle oder nur beantwortete Nachrichten gelöscht werden.
 Achtung: Sobald diese Aktion vollständig durchgeführt ist, sind die Nachrichten aus der Datenbank gelöscht und nicht mehr verfügbar.
 
-
-**Register Über**
+#### 2.5 Register Über
 ![2_about1_de.PNG](../assets/2_about1_de.PNG)  
 *Abbildung 8 Das Register Über*
 
@@ -70,11 +69,10 @@ Diese Seite bietet nützliche Informationen, darunter Infos über die Modulversi
 Außerdem befindet sich hier auch ein Spendenlink, Wenn ihnen das Modul gefällt, dann Spenden sie für die Weiterentwicklung dieses Moduls.
 
 
-**Register Hilfe**
+#### 2.6 Register Hilfe
 ![2_help1_de.PNG](../assets/2_help1_de.PNG)  
 *Abbildung 9 Das Register Hilfe*
 
 Auf dem Registerblatt Hilfe finden sie auch eine kurze Beschreibung dieses Moduls
-![](../assets/admin area/help1_de.PNG)
 
  
