@@ -21,7 +21,7 @@
 
 ## Download/Fork the Module ![](en/assets/forkit.PNG) 
 
-**You can fork the module --> [here](https://github.com/XoopsModules25x/contact))** 
+**You can fork the module --> [here](https://github.com/XoopsModules25x/contact)** 
 
 ## How to Contribute
 
