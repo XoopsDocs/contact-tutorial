@@ -1,12 +1,18 @@
 # 6.0 Blocks
 
+Dieses Modul bietet folgende Blöcke:
 
-As of version 1.82 there is a single block for this module.
+#### 6.1 only contact form
+This block display the contact form. If available, the header information text (see [preferences](3preferences.md)) will be placed on the top of the form. 
+The default contact info (see also [preferences](3preferences.md)) will be displayed on the left side of the form, if available.
+![Blocks 1](../assets/6_blocks1.PNG) 
 
-**Statistics Block**
 
-The statistics block shows the number of messages (contacts) that have replies, those that have no replies and the total number of messages. If Departments are enabled the block will also show the total number of messages for each department. Only departments with messages will be displayed.  
+#### 6.2 only Google-Maps
+If you have entered the data of a Google-Maps-iframe (see also [preferences](3preferences.md)), your selected location on the map will be shown in a block.
+![Blocks 2](../assets/6_blocks2.PNG) 
 
-![image022.jpg](../assets/image022.jpg) 
 
-**NOTE:**  A default department (“Contact us”) is created if the module was initially configured without departments enabled, and then subsequently enabled. Messages sent before departments were enabled will be displayed in the Contact us “department”.
+#### 6.3 contact form together with Google-Maps
+This block display the contact form together with Google-Maps. The map will be placed on the right side.
+![Blocks 3](../assets/6_blocks3.PNG) 

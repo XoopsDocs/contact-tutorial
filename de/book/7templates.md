@@ -20,13 +20,12 @@ Für die Benutzerseite ist ein Template vorhanden:
 |***contact_index.tpl*** | Zeigt das Kontaktformular an. Sofern das iframe für Google-Maps definiert wurde, wird die Karte rechts neben dem Kontaktformular angezeigt.|
 
 
-Für die Blöcke existieren 4 Templates:
+Für die Blöcke existieren 3 Templates:
 
 |Template|Function|
 |---|---|
-|***contact_block_stats.tpl*** | Zur Anzeige des Statistikblocks |
 |***block_contact_form.tpl**** | Zur Anzeige des Kontaktformular (ohne Standortkarte) |
-|***block_contact_form.tpl**** | Zur Anzeige des Standortkarte (ohne Kontaktformular) |
+|***block_contact_map.tpl**** | Zur Anzeige des Standortkarte (ohne Kontaktformular) |
 |***block_contact_form_maps.tpl**** | Zur Anzeige des Kontaktformular mit Standortkarte |
 
 Alle Templates können etweder direkt oder über Admin -> System -> Templates -> Contact Us bearbeitet werden.

@@ -1,13 +1,18 @@
 # 1.0 Install/Uninstall
 
-No special measures necessary, follow the standard installation process – extract the module folder into the /modules directory. Install the module through Admin -> Modules -> Install Modules (see below). 
+No special measures necessary, follow the standard installation process. 
+Detailed instructions on installing modules are available in the [XOOPS Operations Manual](http://goo.gl/adT2i).
 
-![image005.jpg](../assets/image005.jpg)
+#### 1.1 Install
+* extract the module folder 'contact' into the /modules directory
+* Log in as admin and goto Xoops Admin area
+* Install the module through Admin -> Modules -> Install Modules
+![Installation](../assets/1_install.PNG)
+*Figure: module administration and install*
+* Configure the module 
+* Set module and block permissions via System --> Groups.
 
-*Figure 2 The Module Administration and Installation*
-
-Detailed instructions on installing modules are available in the XOOPS Operations Manual.  To uninstall the module, just click on the red arrow:
- 
- ![image006.gif](../assets/image006.jpg)
- 
-*Figure 3 The Module Administration and un-installation*
+#### 1.2 Uninstall
+ To uninstall the module, just click on the red arrow:
+![Uninstall](../assets/1_uninstall.PNG)
+*Figure: Uninstalling in module administration*

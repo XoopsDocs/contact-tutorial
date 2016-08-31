@@ -1,7 +1,7 @@
 ### _XOOPS Documentation Series_
 ![logoXoops.jpg](assets/logoXoops.jpg)
 
-# Modul: Contact Us  2.23
+# Modul: Contact Us  2.25
 #### for XOOPS 2.5.7
       
 ![logoModule.png](assets/logoModule.png)
@@ -16,7 +16,7 @@
 “Contact Us” ist ein sehr einfaches Modul. Es bietet ihnen die Möglichkeit, dass Benutzer an eine definierte EMail-Adresse oder eine Abteilung ein Kontakt-EMail senden.
 Der Aufruf des Kontaktformulars erfolgt über das Hauptmenü oder es können auch entsprechende Blöcke angezeigt werden.
  
-![image004.png](assets/0_dashboard_de.PNG)
+![Dashboard](assets/0_dashboard.PNG)
 
 *Abbildung 1: Hauptübersicht des Kontaktmoduls (Administrationsbereich)*
 

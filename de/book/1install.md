@@ -4,15 +4,15 @@ Es sind keine speziellen Maßnahmen erforderlich, führen Sie den Standardinstal
 Wenn Sie zustätzliche Informationen benötigen, lesen Sie die Installationshinweise unter [XOOPS Operations Manual](http://goo.gl/adT2i).
 
 #### 1.1 Installation
-- Extrahieren Sie den Ordner 'contact' in das Module-Verzeichnis
-- Loggen sie sich als Administrator und wechseln sie zur Xoops Administrationseite
-- Installieren Sie das Modul über Administration -> Module
-![1_install1_de.PNG](../assets/1_install1_de.PNG)
-*Abbildung 2 Die Moduladministration und Installation*
-- Konfigurieren sie das Modul 
-- Die nächsten Schritte sind nun die Rechteverwaltung des Modules und der Blöcke in System --> Gruppen.
+* Extrahieren Sie den Ordner 'contact' in das Module-Verzeichnis
+* Loggen sie sich als Administrator und wechseln sie zur Xoops Administrationseite
+* Installieren Sie das Modul über Administration -> Module
+![Installation](../assets/1_install.PNG)
+*Abbildung: Die Moduladministration und Installation*
+* Konfigurieren sie das Modul 
+* Die nächsten Schritte sind nun die Rechteverwaltung des Modules und der Blöcke in System --> Gruppen.
 
 #### 1.2 Deinstallation
 Zur Deinstallation klicken sie einfach auf den roten Pfeil
-![1_deinstall1_de.PNG](../assets/1_deinstall1_de.PNG)
-*Abbildung 3 Deinstallation in der Moduladministration*
+![Deinstallation](../assets/1_uninstall.PNG)
+*Abbildung: Deinstallation in der Moduladministration*
