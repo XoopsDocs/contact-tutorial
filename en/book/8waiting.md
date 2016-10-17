@@ -1,8 +1,7 @@
 # 8.0 Waiting Module Support
 
 The Contact module includes native support for the Waiting module v0.97+.  This support is enabled automatically and the Contact module will show up in the Waiting block:
-
-![image023.jpg](../assets/image023.jpg)
+![Module Waiting](../assets/8_waiting.jpg)
 
 The Waiting module is available through XOOPS at http://www.xoops.org. 
 

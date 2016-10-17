@@ -1,8 +1,9 @@
 ### _XOOPS Documentation Series_
 ![logoXoops.jpg](assets/logoXoops.jpg)
 
-# Module: Contact Us  1.8.2
+# Module: Contact Us  2.25
 #### for XOOPS 2.5.7
+#### for PHP 5.5, 5.6 an 7.0
       
 ![logoModule.png](assets/logoModule.png)
  
@@ -14,14 +15,16 @@
 ## Module Purpose 
  
 “Contact Us” is a very simple module. It provides a Main Menu link to a contact form that visitors can use to email the website Administrator or optionally a department.
+The contact form can be displayed as own side by clicking on main menu or as a block.
  
-![image004.png](assets/image004.jpg)
+![Dashboard](assets/0_dashboard.PNG)
 
 *Figure 1: Main view of the Contact Module (Admin side)*
 
-## Download/Fork the Module ![](assets/forkit.png) 
+## Download/Fork the Module 
+![](assets/forkit.PNG) 
 
-**You can fork the module --> [here](https://github.com/XoopsModules25x/contact))** 
+**You can fork the module --> [here](https://github.com/XoopsModules25x/contact)** 
 
 ## How to Contribute
 
@@ -47,3 +50,5 @@ Editing the book can be done either by updating the markdown files with a text e
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Unless specified, this content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 All derivative works are to be attributed to XOOPS Project ([www.xoops.org](http://xoops.org))
+
+##Tutorial Version: 1.1
