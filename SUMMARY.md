@@ -1,12 +1,13 @@
-# Table of Content
+# Table of contents
 
 * [Introduction](README.md)
-* [Install/Uninstall](en/book/1install.md)
-* [Administration Menu](en/book/2administration.md)
-* [Preferences](en/book/3preferences.md)
-* [The User Side](en/book/5userside.md)
-* [Blocks](en/book/6blocks.md)
-* [Templates](en/book/7templates.md)
-* [Waiting Module Support](en/book/8waiting.md)
-* [Module Credits](en/book/9credits.md)
-* [About XOOPS CMS](en/book/10aboutxoops.md)
+* [Install/Uninstall](install-uninstall.md)
+* [Administration Menu](administration-menu.md)
+* [Preferences](preferences.md)
+* [The User Side](the-user-side.md)
+* [Blocks](blocks.md)
+* [Templates](templates.md)
+* [Waiting Module Support](waiting-module-support.md)
+* [Module Credits](module-credits.md)
+* [About XOOPS CMS](about-xoops-cms.md)
+
