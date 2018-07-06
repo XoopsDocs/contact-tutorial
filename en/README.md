@@ -1,8 +1,9 @@
 ### _XOOPS Documentation Series_
 ![logoXoops.jpg](assets/logoXoops.jpg)
 
-# Module: Contact Us  1.8.2
+# Module: Contact Us  2.25
 #### for XOOPS 2.5.7
+#### for PHP 5.5, 5.6 an 7.0
       
 ![logoModule.png](assets/logoModule.png)
  
@@ -14,14 +15,16 @@
 ## Module Purpose 
  
 “Contact Us” is a very simple module. It provides a Main Menu link to a contact form that visitors can use to email the website Administrator or optionally a department.
+The contact form can be displayed as own side by clicking on main menu or as a block.
  
-![image004.png](assets/image004.jpg)
+![Dashboard](assets/0_dashboard.PNG)
 
 *Figure 1: Main view of the Contact Module (Admin side)*
 
-## Download/Fork the Module ![](assets/forkit.png) 
+## Download/Fork the Module 
+![](assets/forkit.PNG) 
 
-**You can fork the module --> [here](https://github.com/XoopsModules25x/contact))** 
+**You can fork the module --> [here](https://github.com/XoopsModules25x/contact)** 
 
 ## How to Contribute
 

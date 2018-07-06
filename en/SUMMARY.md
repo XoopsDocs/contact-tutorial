@@ -1,4 +1,4 @@
-# Table of Content
+# Summary
 
 * [Introduction](README.md)
 * [Install/Uninstall](book/1install.md)
@@ -10,3 +10,4 @@
 * [Waiting Module Support](book/8waiting.md)
 * [Module Credits](book/9credits.md)
 * [About XOOPS CMS](book/10aboutxoops.md)
+
