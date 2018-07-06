@@ -76,8 +76,14 @@ With this option you can add your location with Google Maps as iframe.
 To get the correct iframe-code, do following steps:
 
 * Search the location in google maps
-* Click on "Settings": ![Maps 1](.gitbook/assets/3_maps1.PNG)
-* After click on "Share or embed map" select tab "Embed map": ![Maps 2](.gitbook/assets/3_maps2.PNG)
+* Click on "Settings": 
+
+  ![Maps 1](.gitbook/assets/3_maps1.PNG)
+
+* After click on "Share or embed map" select tab "Embed map": 
+
+  ![Maps 2](.gitbook/assets/3_maps2.PNG)
+
 * Copy the iframe-Code and paste it in module preferences
 * If necessary, change width of iframe to 100 %.
 * Done
