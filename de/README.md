@@ -1,11 +1,11 @@
 ### _XOOPS Documentation Series_
-![logoXoops.jpg](assets/logoXoops.jpg)
+![](assets/logoXoops.jpg)
 
 # Modul: Contact Us  2.25
 #### für XOOPS 2.5.7+
 #### für PHP 5.5, 5.6 an 7.0
       
-![logoModule.png](assets/logoModule.png)
+![](assets/logoModule.png)
  
 ## Bedienungsanleitung
   
